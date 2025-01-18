@@ -21,6 +21,9 @@ In terms of depreciation rates, Acura, Porsche, and Honda exhibit the highest le
 Furthermore, the data suggests that car buyers seldom reference specifications, which are the sole data points available in this analysis, as indicated by the scatterplots. This finding implies that customers prioritize factors such as affordability, brand reputation, and historical performance over technical specifications when making purchasing decisions.
 
 
+![Car_sales_Dashboard](https://github.com/user-attachments/assets/8d07c976-5589-4dac-8008-32ff2211b432)
+![Brands_Analysis](https://github.com/user-attachments/assets/028e60e7-2f9f-43dc-a1fc-b2c06ef481c7)
+
 
 Scatterplots Analysis:
 
@@ -32,6 +35,7 @@ Performance:
 
 •	High horsepower and high Power Performance Factor values tend to correlate with lower sales, indicating consumer preference for more practical, cost-efficient options over high-performance ones.
 
+![correlation (Performance)](https://github.com/user-attachments/assets/b1809b97-aad6-4449-9f8f-92726a40e87b)
 
 
 Exterior Details:
@@ -41,4 +45,7 @@ Exterior Details:
 •	Curb Weight appears to have no significant impact on sales.
 
 •	The general takeaway is that moderate dimensions in length, width, and wheelbase align with higher sales, reflecting consumer preference for balanced vehicle sizes.
+
+![correlation(exterior)](https://github.com/user-attachments/assets/14a47290-7dee-4e09-94a9-d827ff0c41ac)
+
 
